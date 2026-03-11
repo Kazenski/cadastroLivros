@@ -1,10 +1,10 @@
-# 📚 Cadastro de Livros Vintage (Integração Python + Firebase)
+#  Cadastro de Livros Vintage (Integração Python + Firebase)
 
 Um aplicativo simples desenvolvido em Python (Tkinter) para cadastrar livros diretamente em um banco de dados na nuvem (Google Firestore). Ideal para estudantes entenderem conceitos de interfaces gráficas e consumo de APIs REST de forma visual e prática.
 
 ---
 
-## 💻 Parte 1: Como rodar o código-fonte (No VS Code)
+##  Parte 1: Como rodar o código-fonte (No VS Code)
 
 Se você quer abrir o código, ler como ele funciona e rodar direto no seu computador, siga os passos abaixo:
 
@@ -23,7 +23,7 @@ Com a biblioteca instalada, basta rodar o arquivo principal para a janela abrir:
 
 ---
 
-## 🚀 Parte 2: Como criar um Executável (.exe) do Projeto
+##  Parte 2: Como criar um Executável (.exe) do Projeto
 
 Você pode transformar esse código em um programa "de verdade", que roda em qualquer computador com Windows sem precisar instalar o Python ou abrir o VS Code!
 
@@ -62,7 +62,7 @@ Você pode copiar esse arquivo, colocar na Área de Trabalho e mandar para os am
 
 ---
 
-### 🛡️ Aviso Importante sobre Antivírus
+###  Aviso Importante sobre Antivírus
 Como esse programa foi criado por você e não possui uma assinatura digital de uma grande empresa de tecnologia, o **Windows Defender** (ou antivírus) pode exibir uma tela azul avisando que o arquivo é desconhecido na primeira vez que for aberto em outro computador. 
 
 Não se preocupe! Basta clicar em **"Mais informações"** e depois no botão **"Executar assim mesmo"**.
