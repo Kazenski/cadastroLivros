@@ -7,13 +7,13 @@ Passos do tkinter:
 4. Criação das funcionalidades
 5. Inicia o loop da aplicação
 
-# 📚 Cadastro de Livros Vintage (Integração Python + Firebase)
+#  Cadastro de Livros Vintage (Integração Python + Firebase)
 
 Um aplicativo simples desenvolvido em Python (Tkinter) para cadastrar livros diretamente em um banco de dados na nuvem (Google Firestore). Ideal para estudantes entenderem conceitos de interfaces gráficas e consumo de APIs REST de forma visual e prática.
 
 ---
 
-## 💻 Parte 1: Como rodar o código-fonte (No VS Code)
+##  Parte 1: Como rodar o código-fonte (No VS Code)
 
 Se você quer abrir o código, ler como ele funciona e rodar direto no seu computador, siga os passos abaixo:
 
@@ -71,13 +71,13 @@ Você pode copiar esse arquivo, colocar na Área de Trabalho e mandar para os am
 
 ---
 
-### 🛡️ Aviso Importante sobre Antivírus
+###  Aviso Importante sobre Antivírus
 Como esse programa foi criado por você e não possui uma assinatura digital de uma grande empresa de tecnologia, o **Windows Defender** (ou antivírus) pode exibir uma tela azul avisando que o arquivo é desconhecido na primeira vez que for aberto em outro computador. 
 
 Não se preocupe! Basta clicar em **"Mais informações"** e depois no botão **"Executar assim mesmo"**.
 
 
-# 🧠 Entendendo o Código: Aplicativo de Livros com Python
+#  Entendendo o Código: Aplicativo de Livros com Python
 
 Nosso aplicativo é dividido em três grandes blocos. Pense nele como um corpo humano: temos o **Esqueleto** (configurações), o **Cérebro** (a lógica que salva os dados) e a **Pele/Rosto** (a interface visual que o usuário enxerga).
 
